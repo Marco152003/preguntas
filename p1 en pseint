@@ -1,0 +1,7 @@
+Proceso MenuCarta
+	Mostrar "La carta del dia de hoy son:"
+	Escribir "opcion 1:lomo saltado"
+	Escribir "opcion 2:arroz con pollo"
+	Escribir "opcion 3:ceviche"
+	
+FinProceso
