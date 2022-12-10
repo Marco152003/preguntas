@@ -1,0 +1,16 @@
+print("Que pide usted, tenemos este menú")
+print("menú 1:ceviche")
+
+print("menú 2:lomo saltado")
+print("menú 3:arroz con pollo")
+print("menú 4:pollo a la braza")
+
+menú1=10
+menú2=15
+menú3=20
+menú4=25
+
+print("ceviche cuesta",menú1,"soles")
+print("lomo saltado",menú2,"soles")
+print("arroz con pollo",menú3,"soles")
+print("pollo a la braza cuesta",menú4,"soles")
