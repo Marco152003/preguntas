@@ -1,0 +1,14 @@
+Algoritmo ordendeobjetos
+	Definir a,b,c,d,e Como Caracter
+	Escribir "ingrese 1er objeto"
+	Leer a
+	Escribir "ingrese 2do objeto"
+	Leer b
+	Escribir "ingrese 3er objeto"
+	Leer c
+	Escribir "ingrese 4to objeto"
+	Leer d
+	Escribir "ingrese 5to objeto"
+	Leer e
+	Escribir e," - ",d," - ",c," - ",b," - ",a  
+FinAlgoritmo
