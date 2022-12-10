@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	Definir A1,A2,A3,prom Como Real
+	Escribir "Ingrese el primer valor" 
+	leer A1
+	Escribir "Ingrese el segundo valor" 
+	leer A2
+	Escribir "Ingrese el tercer valor" 
+	leer A3
+	
+	prom=(A1+A2+A3)/3
+	Escribir "el promedio de los tres ingresos es:" ,prom
+FinAlgoritmo
