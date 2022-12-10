@@ -1,0 +1,7 @@
+A1=float(input("Ingresar el primer valor"))
+A2=float(input("Ingresar el segundo valor"))
+A3=float(input("Ingresar el tercer valor"))
+
+prom=(A1+A2+A3)/ 3
+
+print("el promedio de los tres ingresos es:" ,prom)
