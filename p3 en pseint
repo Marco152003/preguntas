@@ -1,0 +1,36 @@
+Proceso problem_1
+	
+	Definir selec,Total  como Real 
+	Definir a,b,c,d Como real
+	Escribir "Elija una opcion"
+	Escribir"menu 1"
+	Escribir"menu 2"
+	Escribir"menu 3"
+	Escribir"menu 4"
+	Leer selec
+	
+	Segun selec Hacer
+		1:
+			Escribir "Este menu cuesta 15 soles"
+			a<-15
+		2:
+			Escribir "Este menu cuesta 10 soles"
+			b<-10
+		3:
+			Escribir "Este menu cuesta 12 soles"
+			c<-12	
+			
+		4:
+			
+			Escribir "Este menu cuesta 20soles"
+			d<-20
+			
+		De Otro Modo:
+			Escribir "Esta opcion no existe"
+	Fin Segun
+	
+	Total<-1+2+3+4
+	Escribir "El ingreso bruto es:",Total
+	
+	
+FinProceso
